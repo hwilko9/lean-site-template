@@ -295,13 +295,13 @@ That said, one can engage in effective altruism without taking any interest in t
 
 We’re glad you’d like to join us! Here are a few things you can do:
 
+- Follow us on [facebook](https://facebook.com/eaanu/) and come along to our events!
 - Learn more about what we do through the effective altruisim [handbook](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) or William MacAskill’s [Doing Good Better](http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105).
 - Meet like-minded people on our [forum](http://effective-altruism.com/) or at [our annual conference](http://www.eaglobal.org/).
 - Discover how you can have more [impact through your career](http://www.80000hours.org/).
 - Read this post on [small effective things](http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) you can do.
 - Donate to highly effective charities.
 - [Take a pledge to give to effective charities](https://www.givingwhatwecan.org/).
-- Join or start a local chapter or [EA group](http://effectivealtruismhub.com/groups). Email jonathan [dot] courtney [at] givingwhatwecan [dot] org.
 - Apply to work at an EA-oriented organisation, e.g. [GiveWell](http://www.givewell.org/about/jobs) or [Center for Effective Altruism](https://centreforeffectivealtruism.org/careers/).
 
 
