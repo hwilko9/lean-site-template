@@ -101,7 +101,7 @@ However, as we get more skilled in evaluating what works and what doesn’t, mor
 
 You shouldn’t put yourself in a bad situation in order to donate. You’ll probably do more good for others if you focus on progressing your own career first, leaving you with more money for both yourself and others. Alternatively, there are many opportunities for direct work that don’t involve donating money.
 
-Keep in min that you may already be [richer on a global scale than you think](https://www.givingwhatwecan.org/get-involved/how-rich-am-i).
+Keep in mind that you may already be [richer on a global scale than you think](https://www.givingwhatwecan.org/get-involved/how-rich-am-i).
 
 #### Have effective altruist researchers looked into [insert cause here]?
 
