@@ -84,6 +84,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = "facebook.com/eaanu"
+  facebookUrl = "https://www.facebook.com/eaanu/"
   twitterUrl = ""
   meetupUrl = ""
